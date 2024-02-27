@@ -1,0 +1,7 @@
+{
+  "name": "LatestNative",
+  "displayName": "LatestNative",
+  "permissions": [
+    "NOTIFICATIONS"
+  ]
+}
